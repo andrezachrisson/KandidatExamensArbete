@@ -1,0 +1,20 @@
+set style line 1 lt 2 lc rgb '#0060ad' pt 6 lw 2
+set style line 2 lt 2 lc rgb '#09ad00' pt 6 lw 2
+set style line 3 lt 2 lc rgb 'red' pt 6 lw 2
+set style line 4 lt 2 lc rgb 'orange' pt 6 lw 2
+set style line 5 lt 2 lc rgb 'yellow' pt 6 lw 2
+
+set title "Slope for number of cells, time > 10 MCS"
+set xlabel "Kappa"
+set ylabel "Slope"
+
+set xrange[0:1.2]
+
+plot 'Slope_kappa_end' with yerrorbars ls 1
+
+
+
+set terminal png font arial 20 size 1200,800
+set output "6_slope_end.png"
+replot
+set term x11

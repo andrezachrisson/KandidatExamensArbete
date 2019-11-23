@@ -1,0 +1,360 @@
+
+
+*******************************************************************************
+Thu Jul 12 18:37:20 2018
+
+
+FIT:    data read from 'distribution_DELTA4_KAPPA0P2_begin' using (log($1)):(log($2))
+        format = x:z
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a*x + c
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             c            
+   0 1.2057673640e-01   0.00e+00  1.74e+00   -9.873505e-02   2.453322e+00
+   1 1.2057673640e-01   0.00e+00  1.74e-01   -9.873505e-02   2.453322e+00
+
+After 1 iterations the fit converged.
+final sum of squares of residuals : 0.120577
+rel. change during last iteration : 0
+
+degrees of freedom    (FIT_NDF)                        : 8
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.122768
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0150721
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = -0.0987351       +/- 0.05583      (56.54%)
+c               = 2.45332          +/- 0.09283      (3.784%)
+
+correlation matrix of the fit parameters:
+                a      c      
+a               1.000 
+c              -0.908  1.000 
+
+
+*******************************************************************************
+Thu Jul 12 18:37:20 2018
+
+
+FIT:    data read from 'distribution_DELTA4_KAPPA0P3_begin' using (log($1)):(log($2))
+        format = x:z
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: g(x)
+	g(x) = b*x + d
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   b             d            
+   0 6.2357073098e-02   0.00e+00  1.69e+00    1.062070e-01   2.383137e+00
+   1 6.2357073098e-02   0.00e+00  1.69e+01    1.062070e-01   2.383137e+00
+
+After 1 iterations the fit converged.
+final sum of squares of residuals : 0.0623571
+rel. change during last iteration : 0
+
+degrees of freedom    (FIT_NDF)                        : 8
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0882872
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.00779463
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+b               = 0.106207         +/- 0.04015      (37.8%)
+d               = 2.38314          +/- 0.06676      (2.801%)
+
+correlation matrix of the fit parameters:
+                b      d      
+b               1.000 
+d              -0.908  1.000 
+
+
+*******************************************************************************
+Thu Jul 12 18:37:20 2018
+
+
+FIT:    data read from 'distribution_DELTA4_KAPPA0P7_begin' using (log($1)):(log($2))
+        format = x:z
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: h(x)
+	h(x) = k*x + m
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   k             m            
+   0 6.3078495014e-02   0.00e+00  1.73e+00    3.358420e-01   2.387013e+00
+   1 6.3078495014e-02   0.00e+00  1.73e+02    3.358420e-01   2.387013e+00
+
+After 1 iterations the fit converged.
+final sum of squares of residuals : 0.0630785
+rel. change during last iteration : 0
+
+degrees of freedom    (FIT_NDF)                        : 8
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0887965
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.00788481
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+k               = 0.335842         +/- 0.04038      (12.02%)
+m               = 2.38701          +/- 0.06714      (2.813%)
+
+correlation matrix of the fit parameters:
+                k      m      
+k               1.000 
+m              -0.908  1.000 
+
+
+*******************************************************************************
+Thu Jul 12 18:37:20 2018
+
+
+FIT:    data read from 'distribution_DELTA4_KAPPA0P8_begin' using (log($1)):(log($2))
+        format = x:z
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: L(x)
+	L(x) = j*x + t
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   j             t            
+   0 5.9244578112e-02   0.00e+00  1.73e+00    3.632584e-01   2.375370e+00
+   1 5.9244578112e-02   0.00e+00  1.73e+01    3.632584e-01   2.375370e+00
+
+After 1 iterations the fit converged.
+final sum of squares of residuals : 0.0592446
+rel. change during last iteration : 0
+
+degrees of freedom    (FIT_NDF)                        : 8
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0860556
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.00740557
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+j               = 0.363258         +/- 0.03913      (10.77%)
+t               = 2.37537          +/- 0.06507      (2.739%)
+
+correlation matrix of the fit parameters:
+                j      t      
+j               1.000 
+t              -0.908  1.000 
+
+
+*******************************************************************************
+Thu Jul 12 18:44:20 2018
+
+
+FIT:    data read from 'distribution_DELTA4_KAPPA0P1_begin' using (log($1)):(log($2))
+        format = x:z
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a*x + c
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             c            
+   0 5.1966674808e+00   0.00e+00  1.37e+00    1.000000e+00   1.000000e+00
+   4 4.4841627125e-01  -4.87e-07  1.37e-04    1.942124e-01   1.816056e+00
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 0.448416
+rel. change during last iteration : -4.86522e-12
+
+degrees of freedom    (FIT_NDF)                        : 8
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.236753
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.056052
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 0.194212         +/- 0.1077       (55.43%)
+c               = 1.81606          +/- 0.179        (9.858%)
+
+correlation matrix of the fit parameters:
+                a      c      
+a               1.000 
+c              -0.908  1.000 
+
+
+*******************************************************************************
+Thu Jul 12 18:44:20 2018
+
+
+FIT:    data read from 'distribution_DELTA4_KAPPA0P5_begin' using (log($1)):(log($2))
+        format = x:z
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: g(x)
+	g(x) = b*x + d
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   b             d            
+   0 3.1629800374e+00   0.00e+00  1.37e+00    1.000000e+00   1.000000e+00
+   4 5.8230271854e-02  -6.94e-06  1.37e-04    2.870301e-01   2.331168e+00
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 0.0582303
+rel. change during last iteration : -6.9412e-11
+
+degrees of freedom    (FIT_NDF)                        : 8
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0853158
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.00727878
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+b               = 0.28703          +/- 0.0388       (13.52%)
+d               = 2.33117          +/- 0.06451      (2.767%)
+
+correlation matrix of the fit parameters:
+                b      d      
+b               1.000 
+d              -0.908  1.000 
+
+
+*******************************************************************************
+Thu Jul 12 18:44:20 2018
+
+
+FIT:    data read from 'distribution_DELTA4_KAPPA1_begin' using (log($1)):(log($2))
+        format = x:z
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: h(x)
+	h(x) = k*x + m
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   k             m            
+   0 4.7471230077e+00   0.00e+00  1.37e+00    1.000000e+00   1.000000e+00
+   4 2.7152080710e-02  -1.80e-05  1.37e-04    3.226680e-01   2.523206e+00
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 0.0271521
+rel. change during last iteration : -1.79664e-10
+
+degrees of freedom    (FIT_NDF)                        : 8
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0582581
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.00339401
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+k               = 0.322668         +/- 0.02649      (8.21%)
+m               = 2.52321          +/- 0.04405      (1.746%)
+
+correlation matrix of the fit parameters:
+                k      m      
+k               1.000 
+m              -0.908  1.000 
+
+
+*******************************************************************************
+Thu Jul 12 18:44:33 2018
+
+
+FIT:    data read from 'distribution_DELTA4_KAPPA0P1_end' using (log($1)):(log($2))
+        format = x:z
+        #datapoints = 19
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a*x + c
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             c            
+   0 1.1243104087e+01   0.00e+00  1.46e+00    1.942124e-01   1.816056e+00
+   4 1.6802349615e+00  -1.80e-07  1.46e-04    7.504208e-02   1.704111e+00
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 1.68023
+rel. change during last iteration : -1.80386e-12
+
+degrees of freedom    (FIT_NDF)                        : 17
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.314384
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0988374
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 0.0750421        +/- 0.05585      (74.43%)
+c               = 1.70411          +/- 0.2815       (16.52%)
+
+correlation matrix of the fit parameters:
+                a      c      
+a               1.000 
+c              -0.967  1.000 
+
+
+*******************************************************************************
+Thu Jul 12 18:44:33 2018
+
+
+FIT:    data read from 'distribution_DELTA4_KAPPA0P5_end' using (log($1)):(log($2))
+        format = x:z
+        #datapoints = 19
+        residuals are weighted equally (unit weight)
+
+function used for fitting: g(x)
+	g(x) = b*x + d
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   b             d            
+   0 6.5374758358e+00   0.00e+00  1.94e+00    2.870301e-01   2.331168e+00
+   4 3.9618466200e-01  -8.42e-07  1.94e-04    1.289751e-01   2.570595e+00
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 0.396185
+rel. change during last iteration : -8.42241e-12
+
+degrees of freedom    (FIT_NDF)                        : 17
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.15266
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.023305
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+b               = 0.128975         +/- 0.02712      (21.03%)
+d               = 2.57059          +/- 0.1367       (5.318%)
+
+correlation matrix of the fit parameters:
+                b      d      
+b               1.000 
+d              -0.967  1.000 
+
+
+*******************************************************************************
+Thu Jul 12 18:44:33 2018
+
+
+FIT:    data read from 'distribution_DELTA4_KAPPA1_end' using (log($1)):(log($2))
+        format = x:z
+        #datapoints = 19
+        residuals are weighted equally (unit weight)
+
+function used for fitting: h(x)
+	h(x) = k*x + m
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   k             m            
+   0 3.9842064462e+00   0.00e+00  2.12e+00    3.226680e-01   2.523206e+00
+   4 6.9123058673e-02  -3.05e-06  2.12e-04    1.877448e-01   2.761396e+00
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 0.0691231
+rel. change during last iteration : -3.04738e-11
+
+degrees of freedom    (FIT_NDF)                        : 17
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0637657
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.00406606
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+k               = 0.187745         +/- 0.01133      (6.034%)
+m               = 2.7614           +/- 0.0571       (2.068%)
+
+correlation matrix of the fit parameters:
+                k      m      
+k               1.000 
+m              -0.967  1.000 
